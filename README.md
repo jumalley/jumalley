@@ -20,3 +20,5 @@
 <img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png" alt="Francais "width="100" height="67"/>
 <img src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" alt="Espanol "width="100" height="67"/>
 <img src="https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png" alt="russkiy" width="100" height="67"/></div>
+
+https://github.com/jumalley/JuFxUpdates/blob/6673ee9e3fab3225a5606ed42f3db660adb66c39/Updates
