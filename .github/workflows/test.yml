@@ -2,7 +2,7 @@ name: Update GitHub Profile README
 on:
   push:
   schedule:
-    - cron: "*/15 * * * *" 
+    - cron: "*/10 * * * *" 
 jobs:
   build:
     runs-on: ubuntu-latest
