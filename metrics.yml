@@ -19,6 +19,8 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
+          
+          
 
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -29,3 +31,8 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1 # Display #1 project of lowlighter/metrics repository
+          plugin_projects_limit: 4                                    # Limit to 4 entries
+          plugin_projects_descriptions: yes    
