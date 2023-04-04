@@ -23,3 +23,5 @@
 # Here are some of my <a id="skills" href="https://github.com/tandpfun/skill-icons">skills</a>. 🤹‍♂️
 
 [![My Skills](https://skillicons.dev/icons?i=atom,js,html,css,arduino,c,cpp,codepen,discord,bots,eclipse,figma,git,github,githubactions,jquery,lua,mongodb,mysql,nodejs,nuxtjs,php,powershell,processing,py,stackoverflow,symfony,ts,wordpress,xd)](https://skillicons.dev)
+  
+![Travis](https://steam-stat.vercel.app/api?profileName=ju1st)
