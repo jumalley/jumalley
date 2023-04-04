@@ -1,4 +1,4 @@
-# Welcome to my <a href="https://github.com/jumalley">GitHub</a>
+# Welcome to my <a href="https://github.com/jumalley">GitHub</a> profile.
 
 <h3 align="left">Programing languages and softwares:</h3>
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
