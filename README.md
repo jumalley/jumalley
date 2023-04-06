@@ -1,6 +1,6 @@
 # Welcome to my <a id="welcome" href="https://github.com/jumalley">GitHub</a> profile. 🏡
 
-Summary
+* Summary
 <a href="#welcome">Return to the top.</a> | 🏡
 <p>Returns to the top of my profile page.<br/><br>
 <a href="#metrics">Jump to the metrics.</a> | 📊
