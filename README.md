@@ -10,10 +10,8 @@
 <a href="#skills">Jump to the skills.</a> | 🤹‍♂️
 <P>Showcasing a list and tools that I use using the skill-icons library.<br/><br>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<picture>
+  <img alt="github-snake" src="github-snake-dark.svg" />
 </picture>
 
 # Just a bunch of <a id="metrics" href="https://github.com/lowlighter/metrics">statistics</a>. 📊
