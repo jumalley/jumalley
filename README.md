@@ -5,7 +5,7 @@
 <a href="#welcome">Return to the top.</a> | 🏡
 <p>Returns to the top of my profile page.<br/><br>
 <a href="#metrics">Jump to the metrics.</a> | 📊
-<p>A lot of statistics for my github page provided by Metrics through github actions.
+<p>A lot of statistics for my github page provided by Metrics through Github actions.
 <p>Also added a snake that gets refreshed everyday to match the contributions.<br/><br>
 <a href="#music">Jump to the music.</a> | 🎶
 <p>Spotify and Github integration.<br/><br>
