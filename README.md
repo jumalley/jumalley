@@ -23,13 +23,24 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jumalley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+<br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jumalley&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 </div>
 
