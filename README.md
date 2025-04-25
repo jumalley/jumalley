@@ -42,6 +42,18 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+[![Wakatime](https://wakatime.com/badge/user/7c971dd9-3dbe-4a49-b284-bcb72d5d2f9e.svg)](https://wakatime.com/@7c971dd9-3dbe-4a49-b284-bcb72d5d2f9e)
+
+<br>
+
+![Year Progress](https://github.com/jumalley/jumalley/blob/output/year-progress.svg)
+
+<br>
+
+![GitHub Contributions Calendar](https://github-readme-calendar.vercel.app/api?username=jumalley&hide_border=true&theme=tokyonight&bg_color=1d1f21&border_radius=10)
+
 </div>
 
 ---
