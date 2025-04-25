@@ -26,10 +26,10 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=transparent&hide_border=true&border_radius=10" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=transparent&hide_border=true&border_radius=10" />
     </td>
   </tr>
 </table>
