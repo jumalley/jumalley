@@ -23,13 +23,13 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 <div align="center">
 
-![Jumalley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jumalley&theme=tokyonight&hide_border=true&border_radius=10)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Jumalley GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jumalley&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 </div>
 
