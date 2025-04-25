@@ -39,13 +39,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=transparent&hide_border=true&border_radius=10" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jumalley&theme=transparent&short_numbers=true" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
 </table>
-
 
 <br>
 
