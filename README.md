@@ -48,9 +48,11 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
 </picture>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c3f6knsep3epsxyd71mzwj4t2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c3f6knsep3epsxyd71mzwj4t2&redirect=true)
+
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c3f6knsep3epsxyd71mzwj4t2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c3f6knsep3epsxyd71mzwj4t2&redirect=true)
+
 
 ---
 
