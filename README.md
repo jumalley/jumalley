@@ -67,6 +67,28 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
+### 🎮 Steam Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.steam.profile.svg" alt="Steam Profile" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.steam.most-played.svg" alt="Most Played Games" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.steam.recently-played.svg" alt="Recently Played Games" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🎼 Music Activity and Suggestions
 
 <div align="center">
