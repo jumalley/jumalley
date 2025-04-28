@@ -1,9 +1,14 @@
-name: Metrics
+name: Metrics and Pacman Animation
 
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: 
+    - cron: "0 * * * *"  # Schedule metrics updates every hour
+    - cron: "* */12 * * *" # Schedule pacman generation every 12 hours
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: 
+    branches:
+      - master
+      - main
 
 jobs:
   github-metrics:
@@ -56,7 +61,37 @@ jobs:
           plugin_skyline_quality: 0.8
           plugin_skyline_compatibility: no
 
+      # Create output directory for profile summary cards
+      - name: Create output directory
+        run: mkdir -p ./profile-summary-card-output
+
       - name: GitHub-Profile-Summary-Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         with:
           USERNAME: jumalley
+
+      # Commit generated files
+      - name: Commit generated profile summary cards
+        run: |
+          git add ./profile-summary-card-output/*
+          git commit -m "Add generated profile summary cards"
+          git push
+
+  generate-pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+    steps:
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push Pacman Contribution Graph to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
