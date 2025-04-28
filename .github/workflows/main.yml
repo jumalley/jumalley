@@ -1,11 +1,10 @@
-name: Metrics and Pacman Animation
+name: Metrics, Pacman Animation, Steam Stats, Coding Habits, and Music Activity
 
 on:
-  schedule: 
-    - cron: "0 * * * *"  # Schedule metrics updates every hour
-    - cron: "* */12 * * *" # Schedule pacman generation every 12 hours
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
   workflow_dispatch:
-  push: 
+  push:
     branches:
       - master
       - main
@@ -61,6 +60,17 @@ jobs:
           plugin_skyline_quality: 0.8
           plugin_skyline_compatibility: no
 
+          # Add Coding Habits Plugin
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_skipped: []
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: "0%"
+          plugin_habits_charts_type: classic
+
       # Create output directory for profile summary cards
       - name: Create output directory
         run: mkdir -p ./profile-summary-card-output
@@ -95,3 +105,70 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-steam-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Recently Played Games (Steam)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "0"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
+
+      - name: Generate Profile and Detailed Game History (Steam)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "0"
+
+  generate-music-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Recently Played Music (Spotify)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.recent.spotify.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 5
+
+      - name: Generate Top Tracks Music (Spotify)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.top.spotify.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+
+      - name: Generate Random Track Music (Spotify Playlist)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.playlist.spotify.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
+          plugin_music_limit: 5
