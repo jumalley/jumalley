@@ -56,6 +56,13 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
+          # Skyline Plugin
+          plugin_skyline: yes
+          plugin_skyline_year: 2025
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.8
+          plugin_skyline_compatibility: no
+
       # 2. Generate the Profile Summary Cards
       - name: GitHub-Profile-Summary-Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
