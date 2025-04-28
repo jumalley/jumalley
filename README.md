@@ -36,7 +36,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumalley&theme=transparent" alt="Profile Details" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumalley&theme=transparent" alt="Top Languages by Repo" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jumalley&theme=transparent" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumalley&theme=transparent" alt="Top Languages by Commits" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jumalley&theme=transparent" alt="GitHub Stats" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumalley&theme=transparent" alt="Top Languages by Repo" />
     </td>
   </tr>
 </table>
