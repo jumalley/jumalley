@@ -33,13 +33,36 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=transparent&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jumalley&show_icons=true&theme=transparent&hide_border=true&border_radius=10" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=transparent&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalley&layout=compact&theme=transparent&hide_border=true&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumalley&theme=transparent" alt="Profile Details" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumalley&theme=transparent" alt="Top Languages by Repo" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumalley&theme=transparent" alt="Top Languages by Commits" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jumalley&theme=transparent" alt="More GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jumalley&theme=transparent&utcOffset=2" alt="Productive Time" />
     </td>
   </tr>
 </table>
+
+</div>
 
 <br>
 
