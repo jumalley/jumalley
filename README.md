@@ -53,23 +53,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
-### 🎮 Steam Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.steam.full.svg" alt="Steam Full Stats" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.steam.svg" alt="Steam Summary Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <picture>
