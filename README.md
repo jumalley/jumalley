@@ -51,9 +51,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 </div>
 
----
-
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph-dark.svg">
@@ -64,7 +62,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 </div>
-
 
 ---
 
