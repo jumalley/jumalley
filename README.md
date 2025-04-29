@@ -59,15 +59,10 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.steam.profile.svg" alt="Steam Profile" />
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.steam.full.svg" alt="Steam Full Stats" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.steam.most-played.svg" alt="Most Played Games" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.steam.recently-played.svg" alt="Recently Played Games" />
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.steam.svg" alt="Steam Summary Stats" />
       </td>
     </tr>
   </table>
