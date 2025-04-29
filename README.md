@@ -62,7 +62,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
         <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.steam.full.svg" alt="Steam Full Stats" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/c2d846fcd7a77e3100d3d2e989ecced76dded6b8/metrics.plugin.steam.svg" alt="Steam Summary Stats" />
+        <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.steam.svg" alt="Steam Summary Stats" />
       </td>
     </tr>
   </table>
