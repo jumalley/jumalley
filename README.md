@@ -53,20 +53,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
-### 🏙️ GitHub Skyline
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.skyline.svg" alt="GitHub Skyline" />
-</div>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jumalley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-<br>
-
----
-
 ### 🎮 Steam Stats
 
 <div align="center">
