@@ -10,7 +10,8 @@ on:
       - main
 
 jobs:
-  generate-pacman:
+  # 🎮 Pacman-style contribution animation
+  pacman-animation:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -28,32 +29,33 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  # ⛔ Steam Stats job is currently disabled
+  # steam-stats:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Generate Recently Played Games (Steam)
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.steam.svg
+  #         token: NOT_NEEDED
+  #         base: ""
+  #         plugin_steam: yes
+  #         plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+  #         plugin_steam_user: "76561198202151149"
+  #         plugin_steam_sections: recently-played
+  #         plugin_steam_playtime_threshold: 99999
+  #         plugin_steam_achievements_limit: 0
 
-  generate-steam-stats:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate Recently Played Games (Steam)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.steam.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561198202151149" 
-          plugin_steam_sections: recently-played
-          plugin_steam_playtime_threshold: 99999
-          plugin_steam_achievements_limit: 0
-
-      - name: Profile and detailed game history
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.steam.full.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam: yes
-          plugin_steam_playtime_threshold: 99999
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561198202151149"
+  #     - name: Profile and detailed game history
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.steam.full.svg
+  #         token: NOT_NEEDED
+  #         base: ""
+  #         plugin_steam: yes
+  #         plugin_steam_playtime_threshold: 99999
+  #         plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+  #         plugin_steam_user: "76561198202151149"
