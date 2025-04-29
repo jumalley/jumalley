@@ -15,7 +15,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: jumalley
@@ -24,7 +25,7 @@ jobs:
           config_timezone: Europe/Paris
           config_twemoji: yes
 
-          # Only keeping active plugins you actually show or use
+          # Plugins
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -53,14 +54,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
 
-          # Keep Skyline
           plugin_skyline: yes
           plugin_skyline_year: 2025
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.8
           plugin_skyline_compatibility: no
 
-          # Add Coding Habits Plugin
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_skipped: []
@@ -71,20 +70,18 @@ jobs:
           plugin_habits_languages_threshold: "0%"
           plugin_habits_charts_type: classic
 
-      # Create output directory for profile summary cards
       - name: Create output directory
         run: mkdir -p ./profile-summary-card-output
 
-      - name: GitHub-Profile-Summary-Cards
+      - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         with:
           USERNAME: jumalley
 
-      # Commit generated files
-      - name: Commit generated profile summary cards
+      - name: Commit and Push generated profile summary cards
         run: |
           git add ./profile-summary-card-output/*
-          git commit -m "Add generated profile summary cards"
+          git commit -m "Add generated profile summary cards" || echo "No changes to commit"
           git push
 
   generate-pacman:
@@ -98,7 +95,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push Pacman Contribution Graph to Output Branch
+      - name: Push Pacman Graph to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -117,8 +114,8 @@ jobs:
           filename: metrics.plugin.steam.svg
           token: NOT_NEEDED
           base: ""
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "0"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
@@ -129,8 +126,8 @@ jobs:
           filename: metrics.plugin.steam.full.svg
           token: NOT_NEEDED
           base: ""
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "0"
 
   generate-music-stats:
@@ -163,7 +160,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
 
-      - name: Generate Random Track Music (Spotify Playlist)
+      - name: Generate Random Track from Playlist (Spotify)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.playlist.spotify.svg
