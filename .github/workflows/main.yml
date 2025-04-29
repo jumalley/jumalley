@@ -54,5 +54,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
+          plugin_steam_playtime_threshold: 99999
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198046344874"
