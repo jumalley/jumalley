@@ -54,12 +54,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
 
-          plugin_skyline: yes
-          plugin_skyline_year: 2025
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.8
-          plugin_skyline_compatibility: no
-
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
