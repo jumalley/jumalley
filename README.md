@@ -89,31 +89,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
-### 🎼 Music Activity and Suggestions
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.music.recent.spotify.svg" alt="Recently Played Music (Spotify)" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.music.top.spotify.svg" alt="Top Tracks (Spotify)" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.music.playlist.spotify.svg" alt="Random Track from Playlist (Spotify)" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.music.recent.spotify.svg" alt="Recently Played Music (Spotify)" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <picture>
