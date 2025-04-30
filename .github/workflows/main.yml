@@ -28,13 +28,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # 🏙️ GitHub City
-  github-city:
+  # 🏙️ GitHub Skyline
+  github-skyline:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: GitHub City
+      - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.skyline.city.svg
@@ -44,10 +44,3 @@ jobs:
           plugin_skyline_year: 2025
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
-          plugin_skyline_settings: |
-            {
-              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
-              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
-              "wait": 4,
-              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
-            }
