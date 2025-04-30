@@ -66,6 +66,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 </picture>
 
 [![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-04-30&enableZoom=false)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
 <picture>
