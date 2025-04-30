@@ -63,20 +63,18 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 [![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-04-30&enableZoom=false)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
+  <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
+</picture>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
-</picture>
-
-### 🗓️ Contribution Calendar (Full History)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
-  <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
 </picture>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
