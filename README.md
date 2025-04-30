@@ -76,6 +76,8 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 </div>
 
+---
+
 [![Ju profile views](https://u8views.com/api/v1/github/profiles/50602425/views/day-week-month-total-count.svg)](https://u8views.com/github/jumalley)
 
 ---
