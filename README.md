@@ -56,8 +56,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
   </tr>
 </table>
 
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
@@ -65,6 +63,10 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 </picture>
 
 [![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-04-30&enableZoom=false)
+
+</div>
+
+---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
@@ -74,11 +76,9 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
-
----
-
 [![Ju profile views](https://u8views.com/api/v1/github/profiles/50602425/views/day-week-month-total-count.svg)](https://u8views.com/github/jumalley)
+
+</div>
 
 ---
 
