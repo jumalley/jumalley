@@ -28,25 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # 🌟 Featured star list languages
-  featured-star-list-languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Featured star list languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.starlists.languages.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: >
-            Awesome name: Metrics, Pacman Animation, Steam Stats, Coding Habits, and Music Activity
-
   # 🏙️ GitHub City
   github-city:
     runs-on: ubuntu-latest
@@ -60,7 +41,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
-          plugin_skyline_year: 2020
+          plugin_skyline_year: 2025
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
