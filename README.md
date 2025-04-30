@@ -59,8 +59,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 </div>
 
-### 🏙️ Skyline
-
 [![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-04-30&enableZoom=false)
 
 <picture>
