@@ -59,6 +59,14 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 </div>
 
+---
+
+### 🏙️ Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jumalley/jumalley/main/assets/metrics.plugin.skyline.city.svg" alt="Skyline City View" width="100%"/>
+</div>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
 <picture>
