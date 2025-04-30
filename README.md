@@ -74,9 +74,9 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 ### 🗓️ Contribution Calendar (Full History)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.calendar.full.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.calendar.full.svg">
-  <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/output/metrics.plugin.calendar.full.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.calendar.full.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.calendar.full.svg">
+  <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/metrics.plugin.calendar.full.svg">
 </picture>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
