@@ -1,3 +1,5 @@
+name: Metrics Workflow
+
 on:
   schedule:
     - cron: "0 * * * *"  # Runs every hour
@@ -8,6 +10,19 @@ on:
       - main
 
 jobs:
+  # 📅 Full history calendar
+  full-history-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Full History Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
   # 🎮 Pacman-style contribution animation
   pacman-animation:
     runs-on: ubuntu-latest
