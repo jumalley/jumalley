@@ -9,6 +9,12 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
     <a href="https://github.com/jumalley/jumalley" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/jumalley/jumalley?label=Profile%20update&style=fflat-square"></a>
 </p>
 
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="VS Code" /></a>
+    <img src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red" alt="Gmail" />
+    <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838" alt="Steam" /></a>
+</p>
+
 ---
 
 ### 🛠️ Skills & Tools I Use
