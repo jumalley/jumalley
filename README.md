@@ -56,13 +56,76 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
   </tr>
 </table>
 
+---
+
+### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Black Market</h3>
+      <div align="center">
+        <a href="https://jumalley.github.io/blackmarket/" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-Live%20Preview-success?style=for-the-badge" alt="Live Preview">
+        </a>
+        <a href="https://github.com/jumalley/blackmarket" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-Source%20Code-blue?style=for-the-badge" alt="Source Code">
+        </a>
+      </div>
+      <p>
+        An immersive UI for a virtual black market system designed for FiveM roleplay servers. Features a sleek, responsive interface with item categories, search functionality, and dynamic pricing.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Car Control</h3>
+      <div align="center">
+        <a href="https://jumalley.github.io/CarControl/" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-Live%20Preview-success?style=for-the-badge" alt="Live Preview">
+        </a>
+        <a href="https://github.com/jumalley/CarControl" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-Source%20Code-blue?style=for-the-badge" alt="Source Code">
+        </a>
+      </div>
+      <p>
+        Interactive vehicle control interface allowing players to manage vehicle doors, windows, and engine status. Features an elegant circular menu with intuitive icons and animations.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">User Profile UI</h3>
+      <div align="center">
+        <a href="https://jumalley.github.io/Profil-Utilisateur/" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-Live%20Preview-success?style=for-the-badge" alt="Live Preview">
+        </a>
+        <a href="https://github.com/jumalley/Profil-Utilisateur" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-Source%20Code-blue?style=for-the-badge" alt="Source Code">
+        </a>
+      </div>
+      <p>
+        Clean and modern user profile interface for gaming platforms or social applications. Displays user stats, achievements, and personal information in a visually appealing layout.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Tablette</h3>
+      <div align="center">
+        <a href="https://github.com/jumalley/Tablette" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-Source%20Code-blue?style=for-the-badge" alt="Source Code">
+        </a>
+      </div>
+      <p>
+        A virtual tablet interface for FiveM servers, allowing players to access various in-game applications and services through a realistic tablet UI.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
   <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
 </picture>
 
-[![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-04-30&enableZoom=false)
+[![View Jumalley in 3D](https://img.shields.io/badge/Launch%203D%20View-blue?style=for-the-badge)](https://skyline3d.in/jumalley/embed?endDate=2025-12-12&enableZoom=false)
 
 </div>
 
