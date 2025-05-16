@@ -74,7 +74,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ### ⭐ Recently Starred
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center">
