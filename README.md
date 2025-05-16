@@ -58,20 +58,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
-### 🏆 Achievements
-
-<div>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.achievements.svg" />
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
 ### 📰 Recent Activity
 
 <div>
