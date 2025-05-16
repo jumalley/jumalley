@@ -45,3 +45,16 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_visibility: all
           plugin_activity_timestamps: yes
+
+  # ⭐ Recently Starred
+  recently-starred:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Recently Starred Repos Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
