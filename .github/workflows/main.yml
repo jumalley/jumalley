@@ -33,7 +33,7 @@ jobs:
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: jumalley
+          github_user_name: ${{ github.repository_owner }}
 
       - name: Push Pacman Graph to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
