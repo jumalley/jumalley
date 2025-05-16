@@ -64,7 +64,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/jumalley/jumalley/main/metrics.achievements.svg" />
+      <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.achievements.svg" />
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/jumalley/jumalley/main/metrics.activity.svg" />
+      <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.activity.svg" />
     </td>
   </tr>
 </table>
