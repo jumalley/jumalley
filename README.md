@@ -72,6 +72,20 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
+### ⭐ Recently Starred
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jumalley/jumalley/refs/heads/main/metrics.plugin.stars.svg" alt="Recently Starred" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ### 🚀 Featured Projects
 <div align="center">
 <table>
