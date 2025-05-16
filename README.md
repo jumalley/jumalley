@@ -142,12 +142,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumalley&theme=tokyo-night&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jumalley/jumalley/output/pacman-contribution-graph.svg">
-</picture>
-
 [![Ju profile views](https://u8views.com/api/v1/github/profiles/50602425/views/day-week-month-total-count.svg)](https://u8views.com/github/jumalley)
 
 </div>
