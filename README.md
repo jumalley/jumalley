@@ -60,7 +60,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ### 🏆 Achievements
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center">
@@ -74,7 +74,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ### 📰 Recent Activity
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center">
