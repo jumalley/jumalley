@@ -18,6 +18,7 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 
 ---
 
+<div align="center">
 ### 🛠️ Skills & Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=atom,js,html,css,arduino,c,cpp,codepen,discord,bots,eclipse,figma,git,github,githubactions,jquery,lua,mongodb,mysql,nodejs,webflow,php,powershell,processing,py,stackoverflow,mastodon,wordpress,xd)](https://skillicons.dev)
@@ -34,8 +35,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
 ---
 
 ### 📈 GitHub Stats
-
-<div align="center">
 
 <table>
   <tr>
