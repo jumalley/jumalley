@@ -107,13 +107,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
     </td>
   </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
-  <img alt="Full history contribution calendar" src="https://raw.githubusercontent.com/jumalley/jumalley/d42cbf9b95b6dc9c26a8202e7ecd9d33154f7eb0/metrics.plugin.calendar.full.svg">
-</picture>
-
 </div>
 
 ---
