@@ -10,19 +10,6 @@ on:
       - main
 
 jobs:
-  # 📅 Full history calendar
-  full-history-calendar:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Full History Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
   # 🎮 Pacman-style contribution animation
   pacman-animation:
     runs-on: ubuntu-latest
@@ -54,6 +41,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
+          plugin_achievements_only: Pull Shark, Quickdraw
           plugin_achievements_display: detailed
           plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
