@@ -23,10 +23,6 @@ Hey there! I'm **@jumalley**, a passionate coder, creative tinkerer, and digital
     <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/jumalley/jumalley?label=Profile%20update&style=flat-square" />
   </a>
 
-  <!-- Repo Created Badge -->
-  <a href="https://github.com/jumalley">
-    <img src="https://badges.pufler.dev/created/jumalley/jumalley" alt="Created Badge" />
-  </a>
 </p>
 
 <p align="center">
