@@ -2,11 +2,10 @@ name: Metrics Workflow
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 0 * * *" # Runs once daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
-      - master
       - main
 
 jobs:
@@ -33,6 +32,7 @@ jobs:
   # 📰 Recent Activity
   recent-activity:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Generate Recent Activity Metrics
         uses: lowlighter/metrics@latest
@@ -49,6 +49,7 @@ jobs:
   # ⭐ Recently Starred
   recently-starred:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Generate Recently Starred Repos Metrics
         uses: lowlighter/metrics@latest
